@@ -137,7 +137,29 @@
 
 	判断是否为空表：head->Next = head;
 
+	循环链表的特点：
+		用rear指向最后一个结点，去掉头指针
 
+		判断空：rear == rear->next;
+
+		两个链表的连接：connect.c
+
+		判断单链表中是否有环：
+			链表的尾结点指向链表中某个结点
+
+			判断方式：
+				方式一：使用p、q两个指针，p总是向前走，q每次都从头开始走，对于每个结点，看p走的步数是否和q一样。
+				方式二：使用p、q两个指针，p每次向前走一步，q每次向前走两步，若在某个时候p == q, 则存在环。
+
+	约瑟夫问题
+
+	魔术师发牌问题
+
+双向链表：
+	
+	双向循环链表
+
+	
 
 
 	
@@ -174,6 +196,14 @@ typedef struct CLinkList
 	int data;
 	struct CLinkList *next;
 }node;
+
+//双向链表
+typedef struct DualNode
+{
+	ElemType data;
+	struct DualNode* prior; //前驱结点
+	struct DualNode* next; //后继结点
+} DualNode, *DuLinkList;
 
 int main()
 {
