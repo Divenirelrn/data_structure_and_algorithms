@@ -1,0 +1,92 @@
+from collections import deque
+
+class Node:
+    def __init__(self, val):
+        self.val = val
+        self.left = None
+        self.right = None
+
+
+def preOrder(root):
+    """前序遍历，递归"""
+    if root:
+        print(root.val, end = " ")
+        preOrder(root.left)
+        preOrder(root.right)
+
+def pre(root):
+    """前序遍历，非递归"""
+    stack = [root]
+    while len(stack):
+        node = stack.pop()
+        print(node.val, end=" ")
+        if node.right:
+            stack.append(node.right)
+
+        if node.left:
+            stack.append(node.left)
+
+    print("\n")
+
+
+def inOrder(root):
+    """中序遍历，递归"""
+    if root:
+        inOrder(root.left)
+        print(root.val, end=" ")
+        inOrder(root.right)
+
+
+def inOrder(root):
+    """中序遍历，非递归"""
+    stack = []
+    node = root
+    while(node != None or len(stack)):
+        if node:
+            stack.append(node)
+            node = node.left
+        else:
+            node = stack.pop()
+            print(node.val, end=" ")
+            node = node.right
+
+    print("\n")
+
+
+def postOrder(root):
+    """后序遍历，递归"""
+    if root:
+        postOrder(root.left)
+        postOrder(root.right)
+        print(root.val, end=" ")
+
+
+def postOrder(root):
+    """后序遍历，非递归"""
+    stack = [root]
+    stack2 = []
+
+    while(len(stack)):
+        node = stack.pop()
+        stack2.append(node)
+        if node.left:
+            stack.append(node.left)
+        if node.right:
+            stack.append(node.right)
+
+    while(len(stack2)):
+        print(stack2.pop().val, end=" ")
+
+    print("\n")
+
+
+def levelOrder(root):
+    queue = deque()
+    queue.append(root)
+    while len(queue) > 0:
+        node = queue.popleft()
+        print(node.val, end=" ")
+        if node.left:
+            queue.append(node.left)
+        if node.right:
+            queue.append(node.right)
