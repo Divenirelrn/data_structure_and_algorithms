@@ -179,7 +179,7 @@ typedef struct
 typedef struct Node
 {
 	ElemType data;
-	struct  Node* Next;
+	struct  Node* Next; //вта╛╫с
 } Node;
 
 typedef struct Node* LinkList;

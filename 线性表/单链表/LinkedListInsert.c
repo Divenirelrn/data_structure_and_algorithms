@@ -27,7 +27,7 @@ Status ListInsert(LinkList *L, int i, ElemType e)
 	p = *L;
 	j = 1;
 
-	while (p && j < i)
+	while (p && j < i) //如果去掉j<i,当下标越界时，也会报内存访问错误
 	{
 		p = p->Next;
 		j++;
@@ -47,3 +47,11 @@ Status ListInsert(LinkList *L, int i, ElemType e)
 	return OK;
 
 }
+
+int main()
+{
+	BiTree bt = (BiTree)malloc(sizeof(BiTNode)); //初始化bt指向一个头结点，此时头结点的data和Next有默认值，但Next不能访问
+	ListInsert(&bt, 1, 10);
+	return 0;
+}
+
