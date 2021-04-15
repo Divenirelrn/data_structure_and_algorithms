@@ -36,27 +36,26 @@ class Graph:
 
     def DFS(self):
         """深度优先遍历非递归（栈）"""
-        vex_map = dict(zip(self.adj_list, range(len(self.adj_list))))
-        flags = [0] * len(self.adj_list)
+        for node in self.adj_list:
+            node.flag = 0
 
         stack = [self.adj_list[0]]
-        flags[0] = 1
+        self.adj_list[0].flag = 1
 
-        while(len(stack)):
+        while (len(stack)):
             vex = stack.pop()
-            idx = vex_map[vex]
+            print(vex.data, end="->")
 
-            if isinstance(vex.data, str):
-                print(vex.data, end="->")
-            elif isinstance(vex.data, int):
-                print(self.adj_list[vex.data].data, end="->")
-
-            p = self.adj_list[idx]
+            p = vex.next
             while p:
-                if flags[p.data] == 0:
-                    stack.append(p)
-                    flags[p.data] = 1
+                node = self.adj_list[p.data]
+                if node.flag == 0:
+                    stack.append(node)
+                    node.flag = 1
                 p = p.next
+
+        for node in self.adj_list:
+            delattr(node, "flag")
 
     def dfs(graph):
         """深度优先遍历递归"""
