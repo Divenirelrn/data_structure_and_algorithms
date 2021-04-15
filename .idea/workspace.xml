@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python版本/图/graphAdjactTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/图/graphAdjactTable.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$hanota.coverage" NAME="hanota Coverage Results" MODIFIED="1618123308779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1618290026025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/树/二叉树" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$queue.coverage" NAME="queue Coverage Results" MODIFIED="1618071310472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/队列" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618409291937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618493885818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1618063986129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的链式存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$houseChessBoard.coverage" NAME="houseChessBoard Coverage Results" MODIFIED="1618491424271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
@@ -27,7 +28,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$BF.coverage" NAME="BF Coverage Results" MODIFIED="1618129805996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$letter.coverage" NAME="letter Coverage Results" MODIFIED="1618047064244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/双向链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$cycle_queue.coverage" NAME="cycle_queue Coverage Results" MODIFIED="1618072501384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/循环队列" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactMatrix.coverage" NAME="graphAdjactMatrix Coverage Results" MODIFIED="1618407903561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactMatrix.coverage" NAME="graphAdjactMatrix Coverage Results" MODIFIED="1618493465733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1618203454809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1618121688467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
   </component>
@@ -46,38 +47,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="2" />
-          <entry key="py" value="28" />
+          <entry key="py" value="29" />
           <entry key="二叉树遍历" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="2" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12511" />
+          <entry key="py" value="13257" />
           <entry key="二叉树遍历" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12558" />
+          <entry key="Python" value="13304" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1550">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="256">
+              <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
               <folding>
-                <marker date="1618486821635" expanded="true" signature="13:18" ph="..." />
+                <marker date="1618494510426" expanded="true" signature="44:49" ph="..." />
               </folding>
             </state>
           </provider>
@@ -86,21 +87,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactTable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="57" selection-end-column="33" />
+            <state relative-caret-position="392">
+              <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
               <folding>
-                <marker date="1618491424233" expanded="true" signature="12:17" ph="..." />
-                <marker date="1618491424233" expanded="true" signature="181:346" ph="..." />
+                <marker date="1618493885768" expanded="true" signature="43:48" ph="..." />
+                <marker date="1618493885768" expanded="true" signature="212:377" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python版本/图/houseChessBoard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
                 <marker date="1618491491443" expanded="true" signature="35:117" ph="..." />
                 <marker date="1618491491443" expanded="true" signature="129:134" ph="..." />
@@ -139,9 +140,9 @@
         <option value="$PROJECT_DIR$/Python版本/树/二叉树/二叉树遍历" />
         <option value="$PROJECT_DIR$/Python版本/树/二叉树/二叉树节点数目与深度.py" />
         <option value="$PROJECT_DIR$/thinking.py" />
-        <option value="$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py" />
-        <option value="$PROJECT_DIR$/Python版本/图/graphAdjactTable.py" />
         <option value="$PROJECT_DIR$/Python版本/图/houseChessBoard.py" />
+        <option value="$PROJECT_DIR$/Python版本/图/graphAdjactTable.py" />
+        <option value="$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py" />
       </list>
     </option>
   </component>
@@ -191,6 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/files/github_projects/data_structue&amp;algorithms/Python版本/图/graphAdjactTable.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_base" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -221,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.houseChessBoard">
+  <component name="RunManager" selected="Python.graphAdjactTable">
     <configuration name="KMP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,9 +343,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.houseChessBoard" />
         <item itemvalue="Python.graphAdjactTable" />
         <item itemvalue="Python.graphAdjactMatrix" />
+        <item itemvalue="Python.houseChessBoard" />
         <item itemvalue="Python.binary_tree" />
         <item itemvalue="Python.KMP" />
       </list>
@@ -371,7 +373,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28652483" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30212766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,36 +559,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <marker date="1618486821635" expanded="true" signature="13:18" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="57" selection-end-column="33" />
-          <folding>
-            <marker date="1618491424233" expanded="true" signature="12:17" ph="..." />
-            <marker date="1618491424233" expanded="true" signature="181:346" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/图/houseChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
             <marker date="1618491491443" expanded="true" signature="35:117" ph="..." />
             <marker date="1618491491443" expanded="true" signature="129:134" ph="..." />
             <marker date="1618491491443" expanded="true" signature="963:968" ph="..." />
             <marker date="1618491491443" expanded="true" signature="1094:1208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/936117475/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1228">
+          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+          <folding>
+            <marker date="1618493885768" expanded="true" signature="43:48" ph="..." />
+            <marker date="1618493885768" expanded="true" signature="212:377" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+          <folding>
+            <marker date="1618494510426" expanded="true" signature="44:49" ph="..." />
           </folding>
         </state>
       </provider>

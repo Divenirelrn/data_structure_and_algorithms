@@ -1,4 +1,6 @@
 
+from collections import deque
+
 class Graph:
     def __init__(self):
         self.vexs = []
@@ -61,6 +63,27 @@ class Graph:
         del vex_dict
         del flags
 
+    def BFS(self):
+        """广度优先遍历非递归（队列）"""
+        vex_map = dict(zip(self.vexs, range(len(self.vexs))))
+        flags = [0] * len(self.vexs)
+
+        q = deque()
+        q.append(self.vexs[0])
+        flags[0] = 1
+
+        while(len(q)):
+            vex = q.popleft()
+            idx = vex_map[vex]
+            print(vex, end="->")
+
+            for i in range(len(self.adjM[idx])):
+                if self.adjM[idx][i] == 1 and flags[i] == 0:
+                    q.append(self.vexs[i])
+                    flags[i] = 1
+
+        del vex_map
+        del flags
 
 
 if __name__ == "__main__":
@@ -70,7 +93,7 @@ if __name__ == "__main__":
     for i in g.adjM:
         print(i)
 
-    g.DFS()
-
+    # g.DFS()
+    g.BFS()
 
 

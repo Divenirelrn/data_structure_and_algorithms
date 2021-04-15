@@ -1,4 +1,6 @@
 
+from collections import deque
+
 class Node:
     def __init__(self, vex):
         self.data= vex
@@ -78,10 +80,37 @@ class Graph:
         for vex in graph.adj_list:
             delattr(vex, "flag")
 
+    def BFS(self):
+        """广度优先遍历非递归（队列）"""
+        for vex in self.adj_list:
+            vex.flag = 0
+
+        q = deque()
+        q.append(self.adj_list[0])
+        self.adj_list[0].flag = 1
+
+        while(len(q)):
+            vex = q.popleft()
+            print(vex.data, end="->")
+
+            p = vex.next
+            while(p):
+                vex = self.adj_list[p.data]
+                if vex.flag == 0:
+                    q.append(vex)
+                    vex.flag = 1
+
+                p = p.next
+
+
+
+
 
 if __name__ == "__main__":
     g = Graph()
     g.createGraph(['A','B','C','D','E'], [('A','B'),('A','D'),('A','E'),('B','C'),('C','E'),('C','D'),('D','E')])
     g.printGraph()
     g.DFS()
+    print("\n")
+    g.BFS()
 
