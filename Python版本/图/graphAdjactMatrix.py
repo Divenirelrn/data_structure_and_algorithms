@@ -85,6 +85,33 @@ class Graph:
         del vex_map
         del flags
 
+    def is_circle(g):
+        """判断图中是否有环"""
+        vex_map = dict(zip(g.vexs, range(len(g.vexs))))
+        flags = [0] * len(g.vexs)
+
+        stack = [g.vexs[0]]
+        flags[0] = 1
+        p = None
+
+        while (len(stack)):
+            vex = stack.pop()
+            idx = vex_map[vex]
+
+            for i in range(len(g.adjM[idx])):
+                if g.adjM[idx][i] == 1:
+                    if flags[i] == 0:
+                        stack.append(g.vexs[i])
+                        flags[i] = 1
+                        p = g.vexs[i]
+
+                    if flags[i] == 1 and g.vexs[i] != p:
+                        return True
+
+            p = vex
+
+        return False
+
 
 if __name__ == "__main__":
     g = Graph()
