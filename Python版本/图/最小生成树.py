@@ -17,6 +17,9 @@ class Graph:
         for i in range(num_vex):
             self.adjM.append([INF] * num_vex)
 
+        for i in range(num_vex):
+            self.adjM[i][i] = 0
+
         for edge in edges:
             v1, v2, w = edge
             i, j = vex_index[v1], vex_index[v2]
@@ -39,6 +42,9 @@ def is_circle(g):
         idx = vex_map[vex]
 
         for i in range(len(g.adjM[idx])):
+            if i == idx:
+                continue
+
             if g.adjM[idx][i] < INF:
                 if flags[i] == 1 and g.vexs[i] != pre_map[vex] and pre_map[vex] != None:
                     return True
@@ -55,7 +61,7 @@ def kruscal(g):
     # 边与权值映射表
     edge_map = {}
     for i in range(len(g.adjM)):
-        for j in range(i, len(g.adjM[0])):
+        for j in range(i + 1, len(g.adjM[0])):
             if g.adjM[i][j] < INF:
                 edge_map[(i, j)] = g.adjM[i][j]
 
@@ -68,6 +74,9 @@ def kruscal(g):
 
     for i in range(len(g_new.adjM)):
         for j in range(len(g_new.adjM[0])):
+            if i == j:
+                continue
+
             if g_new.adjM[i][j] != INF:
                 g_new.adjM[i][j] = INF
 
@@ -105,6 +114,9 @@ def prim(g):
     minEdge[0] = None
     while(sum(selected) < len(g.vexs)):
         for i in range(len(g.adjM[idx])):
+            if i == idx:
+                continue
+
             if g.adjM[idx][i] < INF and not selected[i] and g.adjM[idx][i] < minEdge[i]:
                 minEdge[i] = g.adjM[idx][i]
                 parent[i] = idx #bug
@@ -138,14 +150,14 @@ if __name__ == "__main__":
     g = Graph()
     # g.createGraph(['A','B','C','D','E'], [('A','B',12),('A','D',1),('A','E',5),('B','C',6),('C','E',8),('C','D',10),('D','E', 6)])
     g.createGraph([0,1,2,3,4,5,6,7,8], [(0,1,4),(0,7,8),(1,7,11),(1,2,8),(7,8,7),(7,6,1),(2,8,2),(8,6,6),(2,3,7),(2,5,4),(6,5,2),(3,5,14),(3,4,9),(5,4,10)])
-    # print(g.vexs)
-    # for i in g.adjM:
-    #     print(i)
+    print(g.vexs)
+    for i in g.adjM:
+        print(i)
 
     # print(is_circle(g))
 
-    # print(kruscal(g))
-    print(prim(g))
+    # print("kruscal:", kruscal(g))
+    print("prim:", prim(g))
 
 
 
