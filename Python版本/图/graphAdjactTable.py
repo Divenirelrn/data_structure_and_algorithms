@@ -103,9 +103,6 @@ class Graph:
                 p = p.next
 
 
-
-
-
 if __name__ == "__main__":
     g = Graph()
     g.createGraph(['A','B','C','D','E'], [('A','B'),('A','D'),('A','E'),('B','C'),('C','E'),('C','D'),('D','E')])
