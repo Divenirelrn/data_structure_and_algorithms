@@ -13,9 +13,9 @@ class Graph:
             print(node.data, ',', node.in_d, end="->")
             node = node.next
             while node:
-                print(node.data, end="->")
+                print(node.data,',',node.weight, end="->")
                 node = node.next
-            print("\n")
+            print("")
 
     def createGraph(self, vexs, edges):
         #建立映射表
@@ -26,9 +26,10 @@ class Graph:
             self.adj_list.append(node)
 
         for edge in edges:
-            i, j = vex_dict[edge[0]], vex_dict[edge[1]]
+            i, j, w = vex_dict[edge[0]], vex_dict[edge[1]], edge[2]
 
             node = Node(j)
+            node.weight = w
             node.next = self.adj_list[i].next
             self.adj_list[i].next = node
 
@@ -42,9 +43,10 @@ class Graph:
         for vex in self.adj_list:
             vex.in_d = count[vex_dict[vex.data]]
 
-
-def topological_sorting(g):
+def topological_sorting(g, vex_map):
     stack = []
+    stack2 = []
+    etv = [0] * len(g.adj_list)
     for vex in g.adj_list:
         if vex.in_d == 0:
             stack.append(vex)
@@ -52,7 +54,7 @@ def topological_sorting(g):
     count = 0
     while(len(stack)):
         vex = stack.pop()
-        print(vex.data, end="->")
+        stack2.append(vex)
         count += 1
 
         p = vex.next
@@ -60,22 +62,62 @@ def topological_sorting(g):
             g.adj_list[p.data].in_d -= 1
             if g.adj_list[p.data].in_d <= 0:
                 stack.append(g.adj_list[p.data])
-            p = p.next
 
-    print("")
+            if p.weight + etv[vex_map[vex]] > etv[p.data]:
+                etv[p.data] = p.weight + etv[vex_map[vex]]
+
+            p = p.next
 
     if count < len(g.adj_list): #如果count < len(g.adj_list),则存在环
         return -1
     else:
-        return 0
+        return stack2, etv
+
+def printStack(s):
+    while(len(s)):
+        v = s.pop()
+        print(v.data, end=" ")
+    print("")
+
+def crutial_path(g):
+    vex_map = dict(zip(g.adj_list, range(len(g.adj_list))))
+
+    stack2, etv = topological_sorting(g, vex_map)
+    ltv = [etv[-1]] * len(g.adj_list)
+
+    while(len(stack2)):
+        vex = stack2.pop()
+
+        p = vex.next
+        while(p):
+            if ltv[p.data] - p.weight < ltv[vex_map[vex]]:
+                ltv[vex_map[vex]] = ltv[p.data] - p.weight
+            p = p.next
+
+    for i in range(len(etv)):
+        vex = g.adj_list[i]
+        p = vex.next
+
+        while p:
+            ete = etv[vex_map[vex]]
+            lte = ltv[p.data] - p.weight
+
+            if ete == lte:
+                print("<%d, %d>, %d"%(vex.data, g.adj_list[p.data].data, p.weight), end='    ')
+
+            p = p.next
+
+
+
+
+
 
 
 if __name__ == "__main__":
     g = Graph()
-    g.createGraph([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
-                  [(1,4),(1,2),(1,3),(4,8),(4,10),(4,7),(13,4),(13,14),(14,2),(14,3),
-                   (14,15),(15,5),(3,10),(3,7),(3,6),(3,9),(10,11),(10,7),(11,12)])
+    g.createGraph([1,2,3,4,5,6,7,8,9],[(1,2,6),(1,3,4),(1,4,5),(2,5,1),
+                (3,5,1),(4,6,2),(5,7,7),(5,8,5),(6,8,4),(7,9,2),(8,9,4)])
 
-    g.printGraph()
+    # g.printGraph()
 
-    print(topological_sorting(g))
+    crutial_path(g)
