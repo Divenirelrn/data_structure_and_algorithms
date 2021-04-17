@@ -80,17 +80,44 @@ def dijkstar(g, v0):
     return path, min_w[-1]
 
 
+def Floyd(g):
+    """弗洛伊德算法"""
+    v_len = len(g.vexs)
+    d = g.adjM
+    p = []
+    for i in range(v_len):
+        p.append([0] * v_len)
+
+    for i in range(v_len):
+        for j in range(v_len):
+            p[i][j] = j
+
+    for k in range(v_len):
+        for i in range(v_len):
+            for j in range(v_len):
+                if d[i][j] > d[i][k] + d[k][j]:
+                    d[i][j] = d[i][k] + d[k][j]
+                    p[i][j] = p[i][k]
+
+    return d, p
+
+def print_adjM(adjM):
+    print("--------------------------------------------------------------")
+    for i in range(len(adjM)):
+        for j in range(len(adjM[0])):
+            print("%-6d" % adjM[i][j], end=" ")
+        print("\n")
+    print("--------------------------------------------------------------")
+
 if __name__ == "__main__":
     g = Graph()
     g.createGraph(['v0','v1','v2','v3','v4','v5','v6','v7','v8'],
                   [('v0','v1',1),('v0','v2',5),('v1','v2',3),('v1','v3',7),('v1','v4',5),('v2','v4',1),('v2','v5',7),('v3','v4',2),
                    ('v4','v5',3),('v3','v6',3),('v4','v6',6),('v4','v7',9),('v5','v7',5),('v6','v7',2),('v6','v8',7),('v7','v8',4)])
     print(g.vexs)
-    print("--------------------------------------------------------------")
-    for i in range(len(g.adjM)):
-        for j in range(len(g.adjM[0])):
-            print("%-6d"%g.adjM[i][j], end=" ")
-        print("\n")
-    print("--------------------------------------------------------------")
+    print_adjM(g.adjM)
 
-    print(dijkstar(g, 0))
+    # print(dijkstar(g, 0))
+    d, p = Floyd(g)
+    print_adjM(d)
+    print_adjM(p)
