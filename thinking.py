@@ -7,6 +7,7 @@
 5.对于数组，p指向某个元素,p为下标；对于链表，p指向某个元素,p为指针
 6.链表或二叉树，p指向head或root,用p=p.next(p=p.left,p=p.right)查找某个节点，若想对p赋值，那么最终p不能指向None
 7.递归别忘了return
+8.如果pa与p2都指向node,那么del p1无法删除node
 
 
 思想：

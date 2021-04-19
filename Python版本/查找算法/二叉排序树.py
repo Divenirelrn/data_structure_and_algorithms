@@ -73,11 +73,13 @@ def bst_search2(root, value):
 def bst_insert(bst, value):
     """二叉排序树插入"""
     p = bst.root
+    pre = p
     while (p):
-        pre = p
         if p.data > value:
+            pre = p
             p = p.left
         elif p.data < value:
+            pre = p
             p = p.right
 
     if value < pre.data:
@@ -158,8 +160,8 @@ if __name__ == "__main__":
     in_order(bs_tree.root)
     print("")
     # print(bst_search(bs_tree, 106))
-    print(bst_search2(bs_tree.root, 105))
-    # bst_insert(bs_tree, 106)
-    # in_order(bs_tree.root)
-    bst_delete(bs_tree, 70)
+    # print(bst_search2(bs_tree.root, 105))
+    bst_insert(bs_tree, 300)
     in_order(bs_tree.root)
+    # bst_delete(bs_tree, 70)
+    # in_order(bs_tree.root)

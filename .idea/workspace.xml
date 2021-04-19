@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python版本/树/二叉树/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/树/二叉树/binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python版本/查找算法/二叉排序树.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/查找算法/二叉排序树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinking.py" beforeDir="false" afterPath="$PROJECT_DIR$/thinking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找算法/deleteBST.c" beforeDir="false" afterPath="$PROJECT_DIR$/查找算法/deleteBST.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +21,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1618063986129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的链式存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$houseChessBoard.coverage" NAME="houseChessBoard Coverage Results" MODIFIED="1618491424271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="二叉排序树 Coverage Results" MODIFIED="1618841008100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="二叉排序树 Coverage Results" MODIFIED="1618846347996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$RPN.coverage" NAME="RPN Coverage Results" MODIFIED="1618066873355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$magician.coverage" NAME="magician Coverage Results" MODIFIED="1618035494111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/循环链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack.coverage" NAME="stack Coverage Results" MODIFIED="1618059376191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列" />
@@ -62,13 +60,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="22746" />
+          <entry key="py" value="22798" />
           <entry key="二叉树遍历" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="22793" />
+          <entry key="Python" value="22845" />
         </counts>
       </usages-collector>
     </session>
@@ -78,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -121,16 +119,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python版本/查找算法/二叉排序树.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="114" column="36" lean-forward="true" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+            <state relative-caret-position="254">
+              <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
               <folding>
                 <element signature="e#318#905#0" />
                 <element signature="e#861#905#0" />
-                <element signature="e#1323#1557#0" />
-                <marker date="1618841008018" expanded="true" signature="12:210" ph="..." />
-                <marker date="1618841008018" expanded="true" signature="950:3247" ph="..." />
-                <marker date="1618841008018" expanded="true" signature="1318:1591" ph="..." />
-                <marker date="1618841008018" expanded="true" signature="2692:3247" ph="..." />
+                <marker date="1618846347924" expanded="true" signature="12:210" ph="..." />
+                <marker date="1618846347924" expanded="true" signature="950:3283" ph="..." />
+                <marker date="1618846347924" expanded="true" signature="1318:1591" ph="..." />
+                <marker date="1618846347924" expanded="true" signature="2728:3283" ph="..." />
               </folding>
             </state>
           </provider>
@@ -419,6 +416,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20911528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -723,23 +721,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thinking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/查找算法/二叉排序树.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="114" column="36" lean-forward="true" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+        <state relative-caret-position="254">
+          <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
           <folding>
             <element signature="e#318#905#0" />
             <element signature="e#861#905#0" />
-            <element signature="e#1323#1557#0" />
-            <marker date="1618841008018" expanded="true" signature="12:210" ph="..." />
-            <marker date="1618841008018" expanded="true" signature="950:3247" ph="..." />
-            <marker date="1618841008018" expanded="true" signature="1318:1591" ph="..." />
-            <marker date="1618841008018" expanded="true" signature="2692:3247" ph="..." />
+            <marker date="1618846347924" expanded="true" signature="12:210" ph="..." />
+            <marker date="1618846347924" expanded="true" signature="950:3283" ph="..." />
+            <marker date="1618846347924" expanded="true" signature="1318:1591" ph="..." />
+            <marker date="1618846347924" expanded="true" signature="2728:3283" ph="..." />
           </folding>
         </state>
       </provider>
