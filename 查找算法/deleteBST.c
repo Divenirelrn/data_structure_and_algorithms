@@ -31,7 +31,7 @@ btree* DeleteBST(btree* b, ElemType x)
         2、若p没有左子树，直接用p的右孩子取代它。
 */
 
-btree* DelNode(btree* p)
+btree* DelNode(btree* p) //指向指针的指针，可以直接修改地址
 {
     if (p->lchild)
     {

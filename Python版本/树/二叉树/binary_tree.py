@@ -18,8 +18,6 @@ def createBiTree(root):
         createBiTree(root.right)
 
 
-
-
 if __name__ == "__main__":
     a = Node('A')
     b = Node('B')
