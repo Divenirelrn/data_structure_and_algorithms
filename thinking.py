@@ -8,6 +8,7 @@
 6.链表或二叉树，p指向head或root,用p=p.next(p=p.left,p=p.right)查找某个节点，若想对p赋值，那么最终p不能指向None
 7.递归别忘了return
 8.如果pa与p2都指向node,那么del p1无法删除node
+9.数组下标的判定放在 条件1 and 条件2 的条件1位置
 
 
 思想：
@@ -22,6 +23,7 @@
     (2)append, pop, flags
 8.贪心算法
 9.动态规划
+10.归并思想
 
 主题：
 1.链表的插入与删除
