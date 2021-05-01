@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinking.py" beforeDir="false" afterPath="$PROJECT_DIR$/thinking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序算法/排序.c" beforeDir="false" afterPath="$PROJECT_DIR$/排序算法/排序.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +20,14 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618493885818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$hash.coverage" NAME="hash Coverage Results" MODIFIED="1618928379745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1618063986129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的链式存储结构" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1619881133388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$houseChessBoard.coverage" NAME="houseChessBoard Coverage Results" MODIFIED="1618491424271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1619259206122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/排序算法" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$RPN.coverage" NAME="RPN Coverage Results" MODIFIED="1618066873355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$magician.coverage" NAME="magician Coverage Results" MODIFIED="1618035494111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/循环链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack.coverage" NAME="stack Coverage Results" MODIFIED="1618059376191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$1_.coverage" NAME="1.两数之和 Coverage Results" MODIFIED="1619879097444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$BF.coverage" NAME="BF Coverage Results" MODIFIED="1618129805996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$letter.coverage" NAME="letter Coverage Results" MODIFIED="1618047064244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/双向链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$cycle_queue.coverage" NAME="cycle_queue Coverage Results" MODIFIED="1618072501384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/循环队列" />
@@ -38,18 +40,19 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.66" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="2" />
-          <entry key="py" value="51" />
+          <entry key="py" value="56" />
           <entry key="txt" value="1" />
           <entry key="二叉树遍历" value="2" />
         </counts>
@@ -58,12 +61,12 @@
         <counts>
           <entry key="C++" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="53" />
+          <entry key="Python" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="26799" />
+          <entry key="py" value="27019" />
           <entry key="txt" value="55" />
           <entry key="二叉树遍历" value="47" />
         </counts>
@@ -71,117 +74,54 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="55" />
-          <entry key="Python" value="26846" />
+          <entry key="Python" value="27066" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="297">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/冒泡排序.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="25" selection-start-line="25" selection-end-line="29" selection-end-column="12" />
-              <folding>
-                <marker date="1619099452326" expanded="true" signature="20:25" ph="..." />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/选择排序.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <marker date="1619100282120" expanded="true" signature="20:256" ph="..." />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/直接插入排序.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <marker date="1619102318674" expanded="true" signature="34:277" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/希尔排序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <marker date="1619105754951" expanded="true" signature="39:396" ph="..." />
-                <marker date="1619105754951" expanded="true" signature="39:496" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/堆排序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="22" />
-              <folding>
-                <marker date="1619234811880" expanded="true" signature="205:256" ph="..." />
-                <marker date="1619234811880" expanded="true" signature="549:651" ph="..." />
-                <marker date="1619234811880" expanded="true" signature="668:752" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/归并排序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="40" selection-start-line="40" selection-end-line="43" selection-end-column="12" />
-              <folding>
-                <marker date="1619245684647" expanded="true" signature="42:501" ph="..." />
-                <marker date="1619245684647" expanded="true" signature="570:696" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/排序.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python版本/排序算法/快速排序.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-              <folding>
-                <marker date="1619259206057" expanded="true" signature="25:75" ph="..." />
-                <marker date="1619259206057" expanded="true" signature="316:646" ph="..." />
-                <marker date="1619259206057" expanded="true" signature="713:805" ph="..." />
-              </folding>
+            <state relative-caret-position="400">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -230,10 +170,14 @@
         <option value="$PROJECT_DIR$/Python版本/排序算法/直接插入排序.py" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/希尔排序.py" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/堆排序.py" />
-        <option value="$PROJECT_DIR$/thinking.py" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/归并排序.py" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/排序.txt" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/快速排序.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
+        <option value="$PROJECT_DIR$/thinking.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py" />
       </list>
     </option>
   </component>
@@ -274,12 +218,7 @@
               <item name="data_structue&amp;algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_structue&amp;algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Python版本" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data_structue&amp;algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_structue&amp;algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.快速排序">
+  <component name="RunManager" selected="Python.trial">
     <configuration name="直接插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,6 +273,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/排序算法/直接插入排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.两数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -518,19 +479,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.直接插入排序" />
-      <item itemvalue="Python.希尔排序" />
-      <item itemvalue="Python.堆排序" />
-      <item itemvalue="Python.归并排序" />
-      <item itemvalue="Python.快速排序" />
+      <item itemvalue="Python.1.两数之和" />
+      <item itemvalue="Python.trial" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.快速排序" />
-        <item itemvalue="Python.归并排序" />
-        <item itemvalue="Python.堆排序" />
-        <item itemvalue="Python.希尔排序" />
+        <item itemvalue="Python.trial" />
+        <item itemvalue="Python.1.两数之和" />
         <item itemvalue="Python.直接插入排序" />
       </list>
     </recent_temporary>
@@ -552,12 +531,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20911528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20567375" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -723,12 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <marker date="1618491491443" expanded="true" signature="35:117" ph="..." />
-            <marker date="1618491491443" expanded="true" signature="129:134" ph="..." />
-            <marker date="1618491491443" expanded="true" signature="963:968" ph="..." />
-            <marker date="1618491491443" expanded="true" signature="1094:1208" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,10 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="103" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <marker date="1618663912740" expanded="true" signature="43:48" ph="..." />
-            <marker date="1618663912740" expanded="true" signature="212:377" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,9 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-          <folding>
-            <marker date="1618675201829" expanded="true" signature="1125:1665" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,13 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="105" column="93" selection-start-line="105" selection-start-column="93" selection-end-line="105" selection-end-column="93" />
-          <folding>
-            <element signature="e#17#89#0" />
-            <element signature="e#108#1094#0" />
-            <element signature="e#1957#2034#0" />
-            <marker date="1618677532963" expanded="true" signature="1900:1986" ph="..." />
-            <marker date="1618677532963" expanded="true" signature="2067:2719" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,9 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1907">
           <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#47#145#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,11 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <marker date="1618754433160" expanded="true" signature="13:18" ph="..." />
-            <marker date="1618754433160" expanded="true" signature="141:321" ph="..." />
-            <marker date="1618754433160" expanded="true" signature="321:323" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,9 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-          <folding>
-            <marker date="1618748206230" expanded="true" signature="24:646" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,10 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding>
-            <marker date="1618752972787" expanded="true" signature="12:106" ph="..." />
-            <marker date="1618752972787" expanded="true" signature="129:633" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,14 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
-          <folding>
-            <element signature="e#318#905#0" />
-            <element signature="e#861#905#0" />
-            <marker date="1618846347924" expanded="true" signature="12:210" ph="..." />
-            <marker date="1618846347924" expanded="true" signature="950:3283" ph="..." />
-            <marker date="1618846347924" expanded="true" signature="1318:1591" ph="..." />
-            <marker date="1618846347924" expanded="true" signature="2728:3283" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -872,10 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-669">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <marker date="1618928379683" expanded="true" signature="35:40" ph="..." />
-            <marker date="1618928379683" expanded="true" signature="151:191" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,9 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <marker date="1619100282120" expanded="true" signature="20:256" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,9 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="25" selection-start-line="25" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <marker date="1619099452326" expanded="true" signature="20:25" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,9 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <marker date="1619102318674" expanded="true" signature="34:277" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,10 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <marker date="1619105754951" expanded="true" signature="39:396" ph="..." />
-            <marker date="1619105754951" expanded="true" signature="39:496" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,18 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="22" />
-          <folding>
-            <marker date="1619234811880" expanded="true" signature="205:256" ph="..." />
-            <marker date="1619234811880" expanded="true" signature="549:651" ph="..." />
-            <marker date="1619234811880" expanded="true" signature="668:752" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thinking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -950,10 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="40" selection-start-line="40" selection-end-line="43" selection-end-column="12" />
-          <folding>
-            <marker date="1619245684647" expanded="true" signature="42:501" ph="..." />
-            <marker date="1619245684647" expanded="true" signature="570:696" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -961,11 +864,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
           <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <marker date="1619259206057" expanded="true" signature="25:75" ph="..." />
-            <marker date="1619259206057" expanded="true" signature="316:646" ph="..." />
-            <marker date="1619259206057" expanded="true" signature="713:805" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>

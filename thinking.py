@@ -1,14 +1,22 @@
 """
 注意：
+逻辑：
 1.判别逻辑完整
 2.判别不间断
 3.不并列的情况不能做并列处理
-4.注意下标越界与next为none
-5.对于数组，p指向某个元素,p为下标；对于链表，p指向某个元素,p为指针
-6.链表或二叉树，p指向head或root,用p=p.next(p=p.left,p=p.right)查找某个节点，若想对p赋值，那么最终p不能指向None
-7.递归别忘了return
-8.如果pa与p2都指向node,那么del p1无法删除node
-9.数组下标的判定放在 条件1 and 条件2 的条件1位置
+
+下标：
+1.注意下标越界与next为none
+2.对于数组，p指向某个元素,p为下标；对于链表，p指向某个元素,p为指针
+3.链表或二叉树，p指向head或root,用p=p.next(p=p.left,p=p.right)查找某个节点，若想对p赋值，那么最终p不能指向None
+4.如果p1与p2都指向node,那么del p1无法删除node
+5.数组下标的判定放在 条件1 and 条件2 的条件1位置
+
+递归：
+1.递归别忘了return
+
+list与dict：
+1.l1 = l2 = list() 与 l1 = list() l2 = list() 是不一样的
 
 
 思想：
