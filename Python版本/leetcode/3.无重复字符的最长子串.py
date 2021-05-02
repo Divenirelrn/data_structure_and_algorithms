@@ -1,3 +1,6 @@
+#哈希表存下标
+#全局与迭代器思想
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         len_s = len(s)
