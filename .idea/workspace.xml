@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python版本/leetcode/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/leetcode/trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python版本/动态规划/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/动态规划/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinking.py" beforeDir="false" afterPath="$PROJECT_DIR$/thinking.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,27 +13,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$fib.coverage" NAME="fib Coverage Results" MODIFIED="1618114752858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1618120042124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$hanota.coverage" NAME="hanota Coverage Results" MODIFIED="1618123308779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1618290026025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/树/二叉树" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$queue.coverage" NAME="queue Coverage Results" MODIFIED="1618071310472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/队列" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618493885818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$hash.coverage" NAME="hash Coverage Results" MODIFIED="1618928379745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$unique_paths.coverage" NAME="unique_paths Coverage Results" MODIFIED="1619942948061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1618063986129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的链式存储结构" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1619881133388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1619940904954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$houseChessBoard.coverage" NAME="houseChessBoard Coverage Results" MODIFIED="1618491424271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1619259206122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/排序算法" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$RPN.coverage" NAME="RPN Coverage Results" MODIFIED="1618066873355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$jump_game.coverage" NAME="jump_game Coverage Results" MODIFIED="1619944460361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$magician.coverage" NAME="magician Coverage Results" MODIFIED="1618035494111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/循环链表" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$stack.coverage" NAME="stack Coverage Results" MODIFIED="1618059376191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$1_.coverage" NAME="1.两数之和 Coverage Results" MODIFIED="1619879097444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$BF.coverage" NAME="BF Coverage Results" MODIFIED="1618129805996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$letter.coverage" NAME="letter Coverage Results" MODIFIED="1618047064244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/双向链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$cycle_queue.coverage" NAME="cycle_queue Coverage Results" MODIFIED="1618072501384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/循环队列" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactMatrix.coverage" NAME="graphAdjactMatrix Coverage Results" MODIFIED="1618493465733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1618203454809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$fib.coverage" NAME="fib Coverage Results" MODIFIED="1618114752858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$hanota.coverage" NAME="hanota Coverage Results" MODIFIED="1618123308779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$queue.coverage" NAME="queue Coverage Results" MODIFIED="1618071310472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/队列" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618493885818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$hash.coverage" NAME="hash Coverage Results" MODIFIED="1618928379745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$max_income.coverage" NAME="max_income Coverage Results" MODIFIED="1619957801668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1619259206122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/排序算法" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$RPN.coverage" NAME="RPN Coverage Results" MODIFIED="1618066873355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$stack.coverage" NAME="stack Coverage Results" MODIFIED="1618059376191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$coin_change.coverage" NAME="coin_change Coverage Results" MODIFIED="1619941606071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$letter.coverage" NAME="letter Coverage Results" MODIFIED="1618047064244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/双向链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1618121688467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -52,7 +57,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="2" />
-          <entry key="py" value="57" />
+          <entry key="py" value="61" />
           <entry key="txt" value="2" />
           <entry key="二叉树遍历" value="2" />
         </counts>
@@ -61,20 +66,21 @@
         <counts>
           <entry key="C++" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="59" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="27123" />
-          <entry key="txt" value="214" />
+          <entry key="dummy" value="7" />
+          <entry key="py" value="29075" />
+          <entry key="txt" value="425" />
           <entry key="二叉树遍历" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="214" />
-          <entry key="Python" value="27170" />
+          <entry key="PLAIN_TEXT" value="432" />
+          <entry key="Python" value="29122" />
         </counts>
       </usages-collector>
     </session>
@@ -85,25 +91,69 @@
         <entry file="file://$PROJECT_DIR$/thinking.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="875">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/jump_game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <marker date="1619944460204" expanded="true" signature="184:189" ph="..." />
+                <marker date="1619944460204" expanded="true" signature="184:411" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/max_income.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+              <folding>
+                <marker date="1619957801581" expanded="true" signature="207:212" ph="..." />
+                <marker date="1619957801581" expanded="true" signature="207:586" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/coin_change.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <marker date="1619941970751" expanded="true" signature="354:359" ph="..." />
+                <marker date="1619941970751" expanded="true" signature="354:628" ph="..." />
+                <marker date="1619941970751" expanded="true" signature="354:629" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/动态规划/unique_paths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <marker date="1619942947995" expanded="true" signature="119:124" ph="..." />
+                <marker date="1619942947995" expanded="true" signature="119:380" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +161,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -121,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -130,7 +180,7 @@
         <entry file="file://$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -192,12 +242,17 @@
         <option value="$PROJECT_DIR$/Python版本/排序算法/排序.txt" />
         <option value="$PROJECT_DIR$/Python版本/排序算法/快速排序.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py" />
-        <option value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/4.寻找两个正序数组的中位数.py" />
-        <option value="$PROJECT_DIR$/thinking.py" />
+        <option value="$PROJECT_DIR$/Python版本/动态规划/coin.py" />
         <option value="$PROJECT_DIR$/Python版本/动态规划/readme.txt" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
+        <option value="$PROJECT_DIR$/Python版本/动态规划/coin_change.py" />
+        <option value="$PROJECT_DIR$/Python版本/动态规划/unique_paths.py" />
+        <option value="$PROJECT_DIR$/Python版本/动态规划/jump_game.py" />
+        <option value="$PROJECT_DIR$/thinking.py" />
+        <option value="$PROJECT_DIR$/Python版本/动态规划/max_income.py" />
       </list>
     </option>
   </component>
@@ -255,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/files/github_projects/data_structue&amp;algorithms/Python版本/图/graphAdjactTable.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/opencv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_base" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -284,51 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.trial">
-    <configuration name="直接插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structue&amp;algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/排序算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/排序算法/直接插入排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1.两数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structue&amp;algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/1.两数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.max_income">
     <configuration name="希尔排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -505,6 +516,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/coin_change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jump_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/jump_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max_income" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/max_income.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -527,16 +604,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="unique_paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/unique_paths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.直接插入排序" />
-      <item itemvalue="Python.1.两数之和" />
       <item itemvalue="Python.trial" />
+      <item itemvalue="Python.coin_change" />
+      <item itemvalue="Python.unique_paths" />
+      <item itemvalue="Python.jump_game" />
+      <item itemvalue="Python.max_income" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.max_income" />
+        <item itemvalue="Python.jump_game" />
+        <item itemvalue="Python.unique_paths" />
+        <item itemvalue="Python.coin_change" />
         <item itemvalue="Python.trial" />
-        <item itemvalue="Python.1.两数之和" />
-        <item itemvalue="Python.直接插入排序" />
       </list>
     </recent_temporary>
   </component>
@@ -557,12 +660,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2539007" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4425532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,28 +690,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python版本/线性表/循环链表/循环链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/线性表/循环链表/magician.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/线性表/双向链表/双向链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/线性表/ceser.c" />
     <entry file="file://$PROJECT_DIR$/Python版本/线性表/双向链表/letter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -890,24 +971,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/2.两数相加.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -918,17 +992,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thinking.py">
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="75">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/coin_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <marker date="1619941970751" expanded="true" signature="354:359" ph="..." />
+            <marker date="1619941970751" expanded="true" signature="354:628" ph="..." />
+            <marker date="1619941970751" expanded="true" signature="354:629" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/unique_paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <marker date="1619942947995" expanded="true" signature="119:124" ph="..." />
+            <marker date="1619942947995" expanded="true" signature="119:380" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/动态规划/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="875">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/jump_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <marker date="1619944460204" expanded="true" signature="184:189" ph="..." />
+            <marker date="1619944460204" expanded="true" signature="184:411" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/max_income.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <marker date="1619957801581" expanded="true" signature="207:212" ph="..." />
+            <marker date="1619957801581" expanded="true" signature="207:586" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
