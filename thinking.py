@@ -12,12 +12,16 @@
     4.如果p1与p2都指向node,那么del p1无法删除node
     5.数组下标的判定放在 条件1 and 条件2 的条件1位置
     6.无穷大加1
+    7.while i < len_s and s[i] == " ":
 
     递归：
     1.递归别忘了return
 
     list与dict：
     1.l1 = l2 = list() 与 l1 = list() l2 = list() 是不一样的
+
+    其他：
+    1.MAX_VALUE = int(math.pow(2,31) - 1) （整数）
 
 
 思想：
