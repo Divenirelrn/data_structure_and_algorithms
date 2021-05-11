@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python版本/字符串/KMP.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$queue.coverage" NAME="queue Coverage Results" MODIFIED="1618071310472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/队列" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$graphAdjactTable.coverage" NAME="graphAdjactTable Coverage Results" MODIFIED="1618493885818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$hash.coverage" NAME="hash Coverage Results" MODIFIED="1618928379745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/查找算法" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$KMP2.coverage" NAME="KMP2 Coverage Results" MODIFIED="1620740079444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/字符串" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$max_income.coverage" NAME="max_income Coverage Results" MODIFIED="1619957801668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$bin2hex.coverage" NAME="bin2hex Coverage Results" MODIFIED="1618062104917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1619259206122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/排序算法" />
@@ -51,13 +53,14 @@
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.66" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="2" />
-          <entry key="py" value="80" />
+          <entry key="py" value="85" />
           <entry key="txt" value="2" />
           <entry key="二叉树遍历" value="2" />
         </counts>
@@ -66,21 +69,21 @@
         <counts>
           <entry key="C++" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="82" />
+          <entry key="Python" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="29636" />
+          <entry key="dummy" value="9" />
+          <entry key="py" value="31022" />
           <entry key="txt" value="443" />
           <entry key="二叉树遍历" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="450" />
-          <entry key="Python" value="29683" />
+          <entry key="PLAIN_TEXT" value="452" />
+          <entry key="Python" value="31069" />
         </counts>
       </usages-collector>
     </session>
@@ -88,73 +91,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/17.电话号码的字母组合.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/26.删除有序数组中的重复项.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="800">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/18.四数之和.py.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/27.移除元素.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1325">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/19.删除链表的倒数第N个结点.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/20.有效的括号.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/21.合并两个有序链表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/22.括号生成.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="507">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/24.两辆交换链表中的结点.py">
+        <entry file="file://$PROJECT_DIR$/Python版本/字符串/KMP2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="250">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <marker date="1620740099373" expanded="true" signature="1160:1493" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/字符串/KMP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1000">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -167,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python版本/图/houseChessBoard.py" />
-        <option value="$PROJECT_DIR$/Python版本/图/graphAdjactMatrix.py" />
-        <option value="$PROJECT_DIR$/Python版本/图/最小生成树.py" />
-        <option value="$PROJECT_DIR$/Python版本/图/最短路径.py" />
         <option value="$PROJECT_DIR$/Python版本/图/graphAdjactTable.py" />
         <option value="$PROJECT_DIR$/Python版本/图/拓扑排序.py" />
         <option value="$PROJECT_DIR$/Python版本/图/关键路径.py" />
@@ -218,6 +184,10 @@
         <option value="$PROJECT_DIR$/Python版本/leetcode/21.合并两个有序链表.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/22.括号生成.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/24.两辆交换链表中的结点.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/26.删除有序数组中的重复项.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/28.移除元素.py" />
+        <option value="$PROJECT_DIR$/Python版本/字符串/KMP.py" />
+        <option value="$PROJECT_DIR$/Python版本/字符串/KMP2.py" />
       </list>
     </option>
   </component>
@@ -257,7 +227,7 @@
               <item name="data_structue&amp;algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_structue&amp;algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Python版本" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,29 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15.三数之和">
-    <configuration name="希尔排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structue&amp;algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/排序算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/排序算法/希尔排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.KMP2">
     <configuration name="15.三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,6 +283,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/15.三数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KMP2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\files\github_projects\data_structue&amp;algorithms\Python版本\字符串\KMP2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -497,28 +467,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structue&amp;algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/coin_change.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="jump_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -586,20 +534,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.希尔排序" />
-      <item itemvalue="Python.coin_change" />
       <item itemvalue="Python.unique_paths" />
       <item itemvalue="Python.jump_game" />
       <item itemvalue="Python.max_income" />
       <item itemvalue="Python.15.三数之和" />
+      <item itemvalue="Python.KMP2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KMP2" />
         <item itemvalue="Python.15.三数之和" />
         <item itemvalue="Python.max_income" />
         <item itemvalue="Python.jump_game" />
         <item itemvalue="Python.unique_paths" />
-        <item itemvalue="Python.coin_change" />
       </list>
     </recent_temporary>
   </component>
@@ -620,12 +567,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39858156" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3815603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -650,41 +597,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python版本/图/最小生成树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="148" selection-start-line="148" selection-end-line="154" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/最短路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/graphAdjactTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/拓扑排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/图/关键路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="105" column="93" selection-start-line="105" selection-start-column="93" selection-end-line="105" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/线性表/单链表/get_mid.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -975,7 +887,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/20.有效的括号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="400">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
@@ -990,14 +902,52 @@
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/22.括号生成.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/24.两辆交换链表中的结点.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/26.删除有序数组中的重复项.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/27.移除元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/字符串/KMP2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/字符串/KMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/字符串/KMP2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <marker date="1620740099373" expanded="true" signature="1160:1493" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
