@@ -1,4 +1,5 @@
 
 import sys
+import math
 
-print(sys.maxsize)
+print(math.pow(2, 2))
