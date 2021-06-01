@@ -19,4 +19,4 @@ class Solution:
 
             ans.append(temp)
 
-        return ans 
+        return ans
