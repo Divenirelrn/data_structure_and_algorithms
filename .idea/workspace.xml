@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python版本/leetcode/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/leetcode/trial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找算法/查找算法.c" beforeDir="false" afterPath="$PROJECT_DIR$/查找算法/查找算法.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1618290026025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/树/二叉树" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$unique_paths.coverage" NAME="unique_paths Coverage Results" MODIFIED="1619942948061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1618063986129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的链式存储结构" />
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1621697702817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1623596105098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$houseChessBoard.coverage" NAME="houseChessBoard Coverage Results" MODIFIED="1618491424271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/图" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$jump_game.coverage" NAME="jump_game Coverage Results" MODIFIED="1619944460361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$magician.coverage" NAME="magician Coverage Results" MODIFIED="1618035494111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/循环链表" />
@@ -38,6 +36,7 @@
     <SUITE FILE_PATH="coverage/data_structue_algorithms$RPN.coverage" NAME="RPN Coverage Results" MODIFIED="1618066873355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列/栈的顺序存储结构" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$stack.coverage" NAME="stack Coverage Results" MODIFIED="1618059376191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/栈与队列" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$coin_change.coverage" NAME="coin_change Coverage Results" MODIFIED="1619941606071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/动态规划" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$55_.coverage" NAME="55.跳跃游戏 Coverage Results" MODIFIED="1623570104377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$letter.coverage" NAME="letter Coverage Results" MODIFIED="1618047064244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/线性表/双向链表" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$15_.coverage" NAME="15.三数之和 Coverage Results" MODIFIED="1620111669008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1618121688467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/递归与分治" />
@@ -71,7 +70,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="3" />
-          <entry key="py" value="111" />
+          <entry key="py" value="117" />
           <entry key="txt" value="3" />
           <entry key="二叉树遍历" value="2" />
         </counts>
@@ -80,13 +79,13 @@
         <counts>
           <entry key="C++" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="113" />
+          <entry key="Python" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="py" value="32344" />
+          <entry key="py" value="32567" />
           <entry key="txt" value="443" />
           <entry key="二叉树遍历" value="47" />
         </counts>
@@ -94,7 +93,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="452" />
-          <entry key="Python" value="32391" />
+          <entry key="Python" value="32614" />
         </counts>
       </usages-collector>
     </session>
@@ -110,27 +109,78 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="75">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/查找算法/线段树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
               <folding>
-                <element signature="e#152#165#0" expanded="true" />
+                <marker date="1623555351036" expanded="true" signature="1365:1476" ph="..." />
+                <marker date="1623555351036" expanded="true" signature="1487:1492" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python版本/查找算法/线段树.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/54.螺旋矩阵.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-              <folding>
-                <marker date="1623555030007" expanded="true" signature="1305:1416" ph="..." />
-                <marker date="1623555030007" expanded="true" signature="1427:1432" ph="..." />
-              </folding>
+            <state relative-caret-position="713">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/59.螺旋矩阵II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1450">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/55.跳跃游戏.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/56.合并区间.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/57.插入区间.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python版本/leetcode/58.最后一个单词的长度.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -143,12 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py" />
-        <option value="$PROJECT_DIR$/Python版本/leetcode/4.寻找两个正序数组的中位数.py" />
-        <option value="$PROJECT_DIR$/Python版本/动态规划/coin.py" />
-        <option value="$PROJECT_DIR$/Python版本/动态规划/coin_change.py" />
-        <option value="$PROJECT_DIR$/Python版本/动态规划/unique_paths.py" />
-        <option value="$PROJECT_DIR$/Python版本/动态规划/jump_game.py" />
         <option value="$PROJECT_DIR$/Python版本/动态规划/max_income.py" />
         <option value="$PROJECT_DIR$/Python版本/动态规划/readme.txt" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/5.最长回文子串.py" />
@@ -192,8 +236,14 @@
         <option value="$PROJECT_DIR$/Python版本/leetcode/49.字母异位词分组.py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/50.Pow(x, n).py" />
         <option value="$PROJECT_DIR$/Python版本/leetcode/53.最大子序和.py" />
-        <option value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
         <option value="$PROJECT_DIR$/Python版本/查找算法/线段树.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/54.螺旋矩阵.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/55.跳跃游戏.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/56.合并区间.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/57.插入区间.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/58.最后一个单词的长度.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/59.螺旋矩阵II.py" />
+        <option value="$PROJECT_DIR$/Python版本/leetcode/trial.py" />
       </list>
     </option>
   </component>
@@ -203,11 +253,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="800" />
-    <option name="y" value="8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="613" />
     <option name="width" value="1278" />
-    <option name="height" value="1049" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -234,7 +283,7 @@
               <item name="data_structue&amp;algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_structue&amp;algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Python版本" type="462c0819:PsiDirectoryNode" />
-              <item name="查找算法" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data_structue&amp;algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.线段树">
+  <component name="RunManager" selected="Python.trial">
     <configuration name="线段树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,6 +370,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/15.三数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="55.跳跃游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structue&amp;algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/leetcode/55.跳跃游戏.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,28 +532,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_income" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structue&amp;algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python版本/动态规划" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python版本/动态规划/max_income.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -506,19 +555,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.max_income" />
       <item itemvalue="Python.15.三数之和" />
       <item itemvalue="Python.KMP2" />
       <item itemvalue="Python.trial" />
       <item itemvalue="Python.线段树" />
+      <item itemvalue="Python.55.跳跃游戏" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.线段树" />
         <item itemvalue="Python.trial" />
+        <item itemvalue="Python.55.跳跃游戏" />
+        <item itemvalue="Python.线段树" />
         <item itemvalue="Python.KMP2" />
         <item itemvalue="Python.15.三数之和" />
-        <item itemvalue="Python.max_income" />
       </list>
     </recent_temporary>
   </component>
@@ -536,15 +585,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="8" width="1278" height="1049" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20771757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2549234" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29967427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -592,48 +641,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/3.无重复字符的最长子串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/4.寻找两个正序数组的中位数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/coin_change.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/jump_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/动态规划/max_income.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/6.z字形变换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python版本/leetcode/7.整数反转.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
@@ -931,24 +938,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
+    <entry file="file://$PROJECT_DIR$/Python版本/查找算法/线段树.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="356">
+          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
           <folding>
-            <element signature="e#152#165#0" expanded="true" />
+            <marker date="1623555351036" expanded="true" signature="1365:1476" ph="..." />
+            <marker date="1623555351036" expanded="true" signature="1487:1492" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python版本/查找算法/线段树.py">
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/55.跳跃游戏.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-          <folding>
-            <marker date="1623555030007" expanded="true" signature="1305:1416" ph="..." />
-            <marker date="1623555030007" expanded="true" signature="1427:1432" ph="..." />
-          </folding>
+        <state relative-caret-position="490">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/56.合并区间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/57.插入区间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/58.最后一个单词的长度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/54.螺旋矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/59.螺旋矩阵II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python版本/leetcode/trial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
