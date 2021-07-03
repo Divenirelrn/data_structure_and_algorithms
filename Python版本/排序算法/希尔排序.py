@@ -19,7 +19,7 @@ def shell_sort(l):
 
 
 if __name__ == "__main__":
-    l = [49,38,65,97,76,13,27,49,55,4]
+    l = [10,4,7,2,5,9,3,1,6,8]
     shell_sort(l)
     print(l)
 

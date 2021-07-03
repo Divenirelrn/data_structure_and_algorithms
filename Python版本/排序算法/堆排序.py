@@ -22,11 +22,11 @@ def swap(i, j):
 
 def heapify(l, i, last_idx):
     max = i
+    if 2*i <= last_idx and l[2*i] > l[max]:
+        max = 2*i
+
     if 2*i + 1 <= last_idx and l[2*i + 1] > l[max]:
         max = 2*i + 1
-
-    if 2*i + 2 <= last_idx and l[2*i + 2] > l[max]:
-        max = 2*i + 2
 
     if max != i:
         swap(i, max)
