@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/data_structue&amp;algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structue&amp;algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python版本/leetcode/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/leetcode/trial.py" afterDir="false" />
     </list>
@@ -174,7 +172,7 @@
       <recent name="D:\files\github_projects\data_structue&amp;algorithms\Python版本\线性表\单链表" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.120.三角形最小路径和">
+  <component name="RunManager" selected="Python.trial">
     <configuration name="线段树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structue&amp;algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -448,8 +446,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.120.三角形最小路径和" />
         <item itemvalue="Python.trial" />
+        <item itemvalue="Python.120.三角形最小路径和" />
         <item itemvalue="Python.55.跳跃游戏" />
         <item itemvalue="Python.线段树" />
         <item itemvalue="Python.KMP2" />
@@ -467,7 +465,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617978095619</updated>
-      <workItem from="1631107052962" duration="1828000" />
+      <workItem from="1631107052962" duration="2481000" />
+      <workItem from="1632323840466" duration="16059000" />
     </task>
     <servers />
   </component>
@@ -524,6 +523,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1632396583499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$120_.coverage" NAME="120.三角形最小路径和 Coverage Results" MODIFIED="1631108344724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
   </component>
   <component name="editorHistoryManager">
