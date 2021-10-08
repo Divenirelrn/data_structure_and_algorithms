@@ -466,7 +466,9 @@
       <option name="presentableId" value="Default" />
       <updated>1617978095619</updated>
       <workItem from="1631107052962" duration="2481000" />
-      <workItem from="1632323840466" duration="16059000" />
+      <workItem from="1632323840466" duration="18817000" />
+      <workItem from="1633341290437" duration="2226000" />
+      <workItem from="1633402655235" duration="5018000" />
     </task>
     <servers />
   </component>
@@ -523,7 +525,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1632396583499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
+    <SUITE FILE_PATH="coverage/data_structue_algorithms$trial.coverage" NAME="trial Coverage Results" MODIFIED="1633418197005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
     <SUITE FILE_PATH="coverage/data_structue_algorithms$120_.coverage" NAME="120.三角形最小路径和 Coverage Results" MODIFIED="1631108344724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python版本/leetcode" />
   </component>
   <component name="editorHistoryManager">
