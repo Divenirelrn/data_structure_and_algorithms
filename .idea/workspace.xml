@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="63b068af-feaa-49ae-8515-b3aadf1c5d17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python版本/leetcode/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python版本/leetcode/trial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/files/github_projects/data_structue&amp;algorithms/Python版本/图/graphAdjactTable.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../code/mmdetection-2.17.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -468,7 +467,7 @@
       <workItem from="1631107052962" duration="2481000" />
       <workItem from="1632323840466" duration="18817000" />
       <workItem from="1633341290437" duration="2226000" />
-      <workItem from="1633402655235" duration="5018000" />
+      <workItem from="1633402655235" duration="5708000" />
     </task>
     <servers />
   </component>
